@@ -29,7 +29,7 @@ namespace Git_Paging
 
         private void LoadData()
         {
-            int row = int.Parse(SqlHelper.ExcuteScalar("select count(1) from t_xw").ToString());
+            int row = int.Parse(SqlHelper.ExcuteScalar("select count(1) from  t_xw").ToString());
             myPage1.DrawControl(row);
             string sql = $"select top {myPage1.PageSize} * from (select row_number() over(order by id) as rownumber,*from t_xw) as a where rownumber> {(myPage1.PageIndex-1)*myPage1.PageSize}";
             dataGridView1.DataSource = SqlHelper.ExcuteDataTable(sql);
