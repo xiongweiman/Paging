@@ -1,0 +1,11 @@
+F:\备份\GIT\page\Git_Paging\bin\Debug\Git_Paging.exe.config
+F:\备份\GIT\page\Git_Paging\bin\Debug\Git_Paging.exe
+F:\备份\GIT\page\Git_Paging\bin\Debug\Git_Paging.pdb
+F:\备份\GIT\page\Git_Paging\obj\Debug\Git_Paging.csprojAssemblyReference.cache
+F:\备份\GIT\page\Git_Paging\obj\Debug\Git_Paging.MyPage.resources
+F:\备份\GIT\page\Git_Paging\obj\Debug\Git_Paging.Properties.Resources.resources
+F:\备份\GIT\page\Git_Paging\obj\Debug\Git_Paging.csproj.GenerateResource.cache
+F:\备份\GIT\page\Git_Paging\obj\Debug\Git_Paging.csproj.CoreCompileInputs.cache
+F:\备份\GIT\page\Git_Paging\obj\Debug\Git_Paging.exe
+F:\备份\GIT\page\Git_Paging\obj\Debug\Git_Paging.pdb
+F:\备份\GIT\page\Git_Paging\obj\Debug\Git_Paging.Form1.resources
